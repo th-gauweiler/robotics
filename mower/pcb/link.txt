@@ -1,1 +1,3 @@
 http://rn-wissen.de/wiki/index.php/Begrenzungsschleife_-_Induktionsschleife
+https://www.mikrocontroller.net/articles/Motoransteuerung_mit_PWM#2-Quadrantensteller_mit_Halbbr.C3.BCcken_Mosfettreiber
+http://www.reichelt.de/?ACTION=20;AWKID=1088086;PROVID=2084
